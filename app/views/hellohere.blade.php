@@ -27,6 +27,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {{ Form::close() }}
 
+<h2>Hello world</h2>
+
 
 <form>
 	
